@@ -1,4 +1,4 @@
-# <a href='http://pluralsight.com'><img src='https://www.pluralsight.com/content/dam/ps-nav-assets/product-logo/pluralsight-color-full-logo.png' height='60' alt='Pluralsight Logo' /></a> Sample repo on GitHub
+# <a href='http://pluralsight.com'><img src='https://strypes.eu/wp-content/uploads/2021/07/soulution7.svg' height='60' alt='Pluralsight Logo' /></a> Sample repo on GitHub
 This repo contains some demo code for a site.
 
 ## Github Getting Started
