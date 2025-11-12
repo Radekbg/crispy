@@ -50,4 +50,4 @@ elif user_choice == "scissors" and computer_choice == "paper":
 elif user_choice == "scissors" and computer_choice == "rock":
     print(scissors, rock, "Rock beats scissors! You lose!")
 else: 
-    print("Try again by typing rock, paper or scissors followed by enter: \n")
+    print("Try again with valid input!")
